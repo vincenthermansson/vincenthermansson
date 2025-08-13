@@ -1,91 +1,104 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there, I'm Vincent Hermansson 👋</h1>
-<h3 align="center">💻 Fullstack Developer | ☁️ Cloud Architect | 🚀 Problem Solver</h3>
+# 👋 Hi there, I'm Vincent Hermansson  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react" alt="React Badge" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js" alt="Node.js Badge" />
-  <img src="https://img.shields.io/badge/Backend-Django-green?logo=django" alt="Django Badge" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?logo=amazonaws" alt="AWS Badge" />
-  <img src="https://img.shields.io/badge/Cloud-GCP-blue?logo=googlecloud" alt="GCP Badge" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql" alt="PostgreSQL Badge" />
-</p>
+🚀 **Fullstack Developer** | 💻 **7+ Years of Experience** | ☁ **AWS & GCP Certified**  
+📍 Based in Chicago, IL, USA | 🌎 Previously in Sweden | 📧 [hermansson.vin@gmail.com](mailto:hermansson.vin@gmail.com)  
 
 ---
 
-## 🌟 About Me  
+## 🧑‍💻 About Me  
 
-Hi, I’m **Vincent Hermansson**, a passionate **Fullstack Developer** with a love for building systems that work flawlessly from **front to back** — and every side in between.  
-I describe myself as a **"front-back-left-right-end"** developer because I enjoy being hands-on with **every part** of the process, from crafting pixel-perfect UIs to designing scalable backend systems and deploying them to the cloud.
+I’m a **passionate Full Stack Developer** with over **7 years** of experience building high-performance, scalable web applications across **frontend, backend, and cloud infrastructure**.  
+I thrive on **problem-solving**, **optimizing performance**, and delivering clean, maintainable code that **powers impactful products**.  
 
-With **React, Node.js, Django, PostgreSQL, AWS, and GCP** in my toolkit, I build apps that are not only functional but **designed for performance, scalability, and real-world impact**. Coding isn’t just a job for me — it’s a genuine passion that drives me to keep learning and improving every single day.
-
----
-
-## 🚀 Skills & Technologies  
-
-**Frontend:**  
-`React` • `JavaScript (ES6+)` • `HTML5` • `CSS3` • `Responsive Design` • `UI/UX Principles`
-
-**Backend:**  
-`Node.js` • `Django` • `REST APIs` • `GraphQL` • `Authentication & Security`
-
-**Databases:**  
-`PostgreSQL` • `MySQL` • `Database Optimization` • `Query Performance Tuning`
-
-**Cloud & DevOps:**  
-`AWS` • `GCP` • `Docker` • `Kubernetes` • `CI/CD Pipelines` • `Cloud Migration` • `Cost Optimization`
-
-**Other Tools:**  
-`Git & GitHub` • `VS Code` • `Figma` • `Postman` • `Linux`
+My career spans **microservices**, **internal tooling**, and **data platforms**, with systems that process **50,000+ daily transactions** and **reduce infrastructure costs by up to 15%**.  
+I love collaborating with distributed teams, mentoring juniors, and constantly learning new technologies.
 
 ---
 
-## 📈 Career Highlights  
+## 🛠️ Technical Toolbox  
 
-- 🛠 **Fullstack Applications** — Delivered multiple web apps using **React** + **Node.js/Django**, ensuring fast load times and smooth UX.  
-- ☁️ **Cloud Migrations** — Successfully moved legacy systems to **AWS** and **GCP**, optimizing performance and cutting costs.  
-- ⚡ **Performance Optimization** — Enhanced React apps by applying advanced rendering techniques and reducing bundle sizes.  
-- 🔐 **Security & Scalability** — Implemented secure authentication systems and database optimizations for large-scale apps.  
-- 🤝 **Team Collaboration** — Worked closely with cross-functional teams in Agile environments to ship features on time.
+**Languages**  
+`JavaScript` `TypeScript` `Python` `Java` `SQL`  
 
----
+**Frontend**  
+`React` `Next.js` `Angular` `Vue.js` `Tailwind CSS`  
 
-## 🌱 What I’m Learning Right Now  
+**Backend**  
+`Node.js` `Express.js` `Django` `Flask` `Spring Boot`  
 
-- Advanced **Cloud-Native Architectures**  
-- **Microservices** with Docker & Kubernetes  
-- Cutting-edge **React performance patterns**  
-- Exploring **AI-assisted development workflows**  
+**Cloud & DevOps**  
+`AWS (Certified)` `GCP` `Docker` `Kubernetes` `Jenkins` `GitHub Actions`  
 
----
+**Databases**  
+`PostgreSQL` `MongoDB` `MySQL`  
 
-## 💡 Fun Facts About Me  
+**Testing & QA**  
+`Jest` `Cypress` `Mocha` `Selenium` `Automated Testing` `CI/CD`  
 
-- ☕ Coffee is my secret debugging tool.  
-- 🎯 I enjoy tackling **impossible-looking problems** just to see if they can be solved.  
-- 🧩 I treat coding like solving a puzzle — every piece matters.  
-- 📚 Always reading up on the latest tech trends so I can stay ahead of the curve.
+**Other Skills**  
+`REST APIs` `GraphQL` `Microservices` `Git` `Linux`  
+`Agile Scrum` `Remote Collaboration`  
 
 ---
 
-## 📫 Let’s Connect!  
+## 💼 Career Highlights  
 
-<p align="left">
-  <a href="mailto:hermansson.vin@gmail.com"><img src="https://img.shields.io/badge/Email-hermansson.vin%40gmail.com-red?logo=gmail" alt="Email" /></a>
-  <a href="https://linkedin.com/in/vincenth26"><img src="https://img.shields.io/badge/LinkedIn-vincenth26-blue?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/vincenthermansson"><img src="https://img.shields.io/badge/GitHub-vincenthermansson-black?logo=github" alt="GitHub" /></a>
-</p>
-
----
-
-## 🏆 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vincenthermansson&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincenthermansson&theme=tokyonight" alt="GitHub Streak" height="150" />
-</p>
+### **Senior Full Stack Developer** — *CloudNova Technologies* *(Remote, USA)*  
+📅 Jan 2022 – Present  
+- Migrated legacy systems to microservices on **GCP**, reducing costs **15%** and downtime **70%**.  
+- Built backend services in **Node.js + PostgreSQL** handling **50K+ daily financial transactions**.  
+- Created **30+ reusable React components**, improving UI efficiency across 6 apps.  
+- Mentored **5 junior developers**, cutting onboarding time from 3 months to 5 weeks.  
+- Delivered quarterly feature rollouts with **95% on-time release rate**.
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_  
+### **Full Stack Developer** — *Funnel* *(Remote, Sweden)*  
+📅 Apr 2020 – Dec 2021  
+- Built **8 SPAs** using **Vue.js & Django** for healthcare and e-commerce clients.  
+- Optimized AWS infrastructure, **increasing uptime 3%** and **cutting costs 18%**.  
+- Boosted test coverage from **45% → 85%**, reducing QA bugs by **40%**.  
+
+---
+
+### **Full Stack Developer** — *Cygni AB* *(Onsite, Sweden)*  
+📅 Jun 2018 – Mar 2020  
+- Refactored **Angular** frontend to reduce load time by **15%**.  
+- Tuned backend to handle **2M+ API requests daily**.  
+- Set up CI/CD pipelines with **Jenkins + Docker**, cutting deployment errors **30%**.
+
+---
+
+## 📌 Key Projects  
+
+### **SmartHR Analytics Platform**  
+*Node.js | React | PostgreSQL | AWS Lambda | Docker*  
+- HR analytics system for **3 departments**, tracking **20+ KPIs**.  
+- Improved data query performance by **40%** through indexing & caching.  
+
+### **RemoteMeet Scheduler**  
+*Django | Vue.js | Redis | Celery | WebSocket*  
+- Real-time scheduling for **200+ users** with instant meeting updates.  
+- Reduced release time by **70%** via automated CI/CD.
+
+---
+
+## 🎓 Education & Certifications  
+
+🎓 **B.Sc. Computer Science** — *KTH Royal Institute of Technology, Sweden*  
+📜 **AWS Certified Solutions Architect - Associate** (2022)  
+📜 **Certified ScrumMaster (CSM)** (2021)  
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vincent%20Hermansson-blue?logo=linkedin)](https://linkedin.com/in/vincenth26)  
+[![GitHub](https://img.shields.io/badge/GitHub-vincenthermansson-lightgrey?logo=github)](https://github.com/vincenthermansson)  
+
+💬 Always open to collaborating on **open-source projects**, **tech discussions**, or **challenging freelance work**.  
+
+---
+
+> _"Clean code, clear communication, and continuous improvement — that’s my development philosophy."_  
+
