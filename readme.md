@@ -1,5 +1,4 @@
 # 
----
 ## 🛠️ Technical Toolbox  
 
 **Languages**  
@@ -29,7 +28,6 @@
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vincent%20Hermansson-blue?logo=linkedin)](https://linkedin.com/in/vincenth26)  
-[![GitHub](https://img.shields.io/badge/GitHub-vincenthermansson-lightgrey?logo=github)](https://github.com/vincenthermansson)  
 
 💬 Always open to collaborating on **open-source projects**, **tech discussions**, or **challenging freelance work**.  
 
