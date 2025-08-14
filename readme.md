@@ -1,18 +1,4 @@
-# 👋 Hi there, I'm Vincent Hermansson  
-
-🚀 **Fullstack Developer** | 💻 **7+ Years of Experience** | ☁ **AWS & GCP Certified**  
-📍 Based in Chicago, IL, USA | 🌎 Previously in Sweden | 📧 [hermansson.vin@gmail.com](mailto:hermansson.vin@gmail.com)  
-
----
-
-## 🧑‍💻 About Me  
-
-I’m a **passionate Full Stack Developer** with over **7 years** of experience building high-performance, scalable web applications across **frontend, backend, and cloud infrastructure**.  
-I thrive on **problem-solving**, **optimizing performance**, and delivering clean, maintainable code that **powers impactful products**.  
-
-My career spans **microservices**, **internal tooling**, and **data platforms**, with systems that process **50,000+ daily transactions** and **reduce infrastructure costs by up to 15%**.  
-I love collaborating with distributed teams, mentoring juniors, and constantly learning new technologies.
-
+# 
 ---
 
 ## 🛠️ Technical Toolbox  
@@ -38,42 +24,6 @@ I love collaborating with distributed teams, mentoring juniors, and constantly l
 **Other Skills**  
 `REST APIs` `GraphQL` `Microservices` `Git` `Linux`  
 `Agile Scrum` `Remote Collaboration`  
-
----
-
-## 💼 Career Highlights  
-
-### **Senior Full Stack Developer** — *CloudNova Technologies* *(Remote, USA)*  
-📅 Jan 2022 – Present  
-- Migrated legacy systems to microservices on **GCP**, reducing costs **15%** and downtime **70%**.  
-- Built backend services in **Node.js + PostgreSQL** handling **50K+ daily financial transactions**.  
-- Created **30+ reusable React components**, improving UI efficiency across 6 apps.  
-- Mentored **5 junior developers**, cutting onboarding time from 3 months to 5 weeks.  
-- Delivered quarterly feature rollouts with **95% on-time release rate**.
-
----
-
-### **Full Stack Developer** — *Funnel* *(Remote, Sweden)*  
-📅 Apr 2020 – Dec 2021  
-- Built **8 SPAs** using **Vue.js & Django** for healthcare and e-commerce clients.  
-- Optimized AWS infrastructure, **increasing uptime 3%** and **cutting costs 18%**.  
-- Boosted test coverage from **45% → 85%**, reducing QA bugs by **40%**.  
-
----
-
-### **Full Stack Developer** — *Cygni AB* *(Onsite, Sweden)*  
-📅 Jun 2018 – Mar 2020  
-- Refactored **Angular** frontend to reduce load time by **15%**.  
-- Tuned backend to handle **2M+ API requests daily**.  
-- Set up CI/CD pipelines with **Jenkins + Docker**, cutting deployment errors **30%**.
-
----
-
-## 🎓 Education & Certifications  
-
-🎓 **B.Sc. Computer Science** — *KTH Royal Institute of Technology, Sweden*  
-📜 **AWS Certified Solutions Architect - Associate** (2022)  
-📜 **Certified ScrumMaster (CSM)** (2021)  
 
 ---
 
