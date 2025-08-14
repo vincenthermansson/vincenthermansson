@@ -69,20 +69,6 @@ I love collaborating with distributed teams, mentoring juniors, and constantly l
 
 ---
 
-## 📌 Key Projects  
-
-### **SmartHR Analytics Platform**  
-*Node.js | React | PostgreSQL | AWS Lambda | Docker*  
-- HR analytics system for **3 departments**, tracking **20+ KPIs**.  
-- Improved data query performance by **40%** through indexing & caching.  
-
-### **RemoteMeet Scheduler**  
-*Django | Vue.js | Redis | Celery | WebSocket*  
-- Real-time scheduling for **200+ users** with instant meeting updates.  
-- Reduced release time by **70%** via automated CI/CD.
-
----
-
 ## 🎓 Education & Certifications  
 
 🎓 **B.Sc. Computer Science** — *KTH Royal Institute of Technology, Sweden*  
